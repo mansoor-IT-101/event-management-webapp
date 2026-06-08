@@ -14,6 +14,12 @@ let events = [
     name: "TECHKHA EXPEDITION ",
     date: "2026-05-17",
     desc: "1 DAY TRIP TO MASHKPURI TOP."
+  },
+   {
+    id: 3,
+    name: "Final exam ",
+    date: "2026-06-28",
+    desc: "booring time."
   }
 ];
 
