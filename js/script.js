@@ -5,33 +5,15 @@ document.getElementById('year').textContent = new Date().getFullYear();
 let events = [
   {
     id: 1,
-    name: "Web Dev Conference",
+    name: "GDG Peshawar Event",
     date: "2025-08-15",
-    desc: "A full-day conference covering the latest in web technologies, frameworks, and best practices."
+    desc: "Join us for DevFest Peshawar 2025 - AmplifAI, the region’s biggest developer conference and part of the world’s largest community-led tech movement powered by Google Developer Groups (GDG).."
   },
   {
     id: 2,
-    name: "UI/UX Design Workshop",
-    date: "2025-07-20",
-    desc: "Hands-on workshop exploring modern design systems and user experience principles."
-  },
-  {
-    id: 3,
-    name: "Startup Pitch Night",
-    date: "2024-03-10",
-    desc: "An evening where local startups pitch their ideas to a panel of experienced investors."
-  },
-  {
-    id: 4,
-    name: "Cloud Computing Summit",
-    date: "2025-09-05",
-    desc: "Deep dives into cloud architecture, serverless paradigms, and DevOps culture."
-  },
-  {
-    id: 5,
-    name: "Open Source Hackathon",
-    date: "2024-11-22",
-    desc: "48-hour coding marathon contributing to open source projects alongside the community."
+    name: "TECHKHA EXPEDITION ",
+    date: "2026-05-17",
+    desc: "1 DAY TRIP TO MASHKPURI TOP."
   }
 ];
 
