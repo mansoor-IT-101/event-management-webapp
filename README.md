@@ -1,1 +1,1 @@
-# event-management-webapp
+# Event Management Web App
